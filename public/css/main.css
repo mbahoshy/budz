@@ -19,3 +19,8 @@ header {
 .wrapper h1 {
 	margin:0;
 }
+
+.find-bud {
+	padding:20px 40px;
+	border:1px solid #CCCCCC;
+}
